@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "DC Analytics"
 include(":app")
+include(":analytics")
