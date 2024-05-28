@@ -65,7 +65,7 @@ afterEvaluate {
             register<MavenPublication>("release") {
                 groupId = "com.github.dealcart"
                 artifactId = "dealcart-analytics"
-                version = "1.0.0"
+                version = "1.0.1"
             }
         }
     }
